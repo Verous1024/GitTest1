@@ -7,6 +7,7 @@ public class Main {
         System.out.println("develop分支 开发结束 随时可以提交");
 
         System.out.println("未完善2");
-        System.out.println("develop分支 继续开发");
+        System.out.println("develop 分支 继续开发1.0");
+        System.out.println("develop 分支 继续开发2.0");
     }
 }
